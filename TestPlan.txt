@@ -1,0 +1,2 @@
+Test Plan: Automation scripts for E2E testing.
+Tools: Selenium, Postman, TestNG.
